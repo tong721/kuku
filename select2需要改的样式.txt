@@ -2,12 +2,7 @@
     .select2-container .select2-choice > .select2-chosen{ background: none; color:#fff;border:none;  }
     .select2-container .select2-choice .select2-arrow{background: none;border: none;}
     .select2-container .select2-choice .select2-arrow b{ background-image: url(img/arrow.png);background-size: 120% 100%; }
-    .select2-drop{background
-    
-    
-    
-    
-    : #64626c;border-color:#000;}
+    .select2-drop{background: #64626c;border-color:#000;}
     .select2-results .select2-result-label {
     color: #fff !important;
     font-size:12px;
