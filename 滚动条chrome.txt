@@ -1,0 +1,25 @@
+/* v3 增加 */
+
+/* chrome 滚动条样式 start */
+::-webkit-scrollbar{
+    width: 10px;
+    height: 10px;
+}
+::-webkit-scrollbar-track-piece{
+    /*background-color: #E2DFDF;*/
+    background-color: #B5ADAD;
+    -webkit-border-radius: 12px;
+}
+
+::-webkit-scrollbar-thumb:vertical{
+    height: 8px;
+    background-color: #999999;
+    -webkit-border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb:horizontal{
+    width: 8px;
+    background-color: #E2DFDF;
+    -webkit-border-radius: 10px;
+}
+/* chrome 滚动条样式 end */
